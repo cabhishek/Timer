@@ -1,0 +1,7 @@
+C:\OfficeProjects\Timer\Timer\bin\Debug\Timer.exe
+C:\OfficeProjects\Timer\Timer\bin\Debug\Timer.pdb
+C:\OfficeProjects\Timer\Timer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\OfficeProjects\Timer\Timer\obj\x86\Debug\Timer.exe
+C:\OfficeProjects\Timer\Timer\obj\x86\Debug\Timer.pdb
+C:\OfficeProjects\Timer\Timer\bin\Debug\nunit.framework.dll
+C:\OfficeProjects\Timer\Timer\bin\Debug\nunit.framework.xml
